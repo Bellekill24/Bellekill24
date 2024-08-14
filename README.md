@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**Bellekill24/Bellekill24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*/Bellekill24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
